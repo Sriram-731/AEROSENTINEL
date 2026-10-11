@@ -4,7 +4,6 @@
 
 A Python-based computer vision prototype that analyzes uploaded
 images using a pretrained YOLOv8 model.
-
 ## Features
 
 - Image upload and preview
