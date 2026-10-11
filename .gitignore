@@ -1,0 +1,48 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Streamlit secrets & local config
+.streamlit/secrets.toml
+
+# Machine Learning & Deep Learning model weights
+*.pt
+*.onnx
+runs/
+
+# Environment variables & secrets
+.env
+.env.*
+
+# OS and Editor artifacts
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+*.pt
+*.onnx
+.DS_Store
+.streamlit/secrets.toml
+uploads/
+temp/

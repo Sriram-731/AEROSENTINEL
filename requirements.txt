@@ -1,0 +1,13 @@
+# Aero Sentinel - Drone Obstacle Detection
+# Technology Stack Dependencies
+streamlit>=1.30.0
+pillow>=10.0.0
+ultralytics>=8.0.0
+opencv-python-headless>=4.8.0
+  
+streamlit
+ultralytics
+opencv-python-headless
+Pillow
+numpy
+pandas
