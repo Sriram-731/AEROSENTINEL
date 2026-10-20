@@ -67,7 +67,7 @@ terms before redistribution or commercial deployment.
 ## Limitations
 
 The model detects common object categories but may miss specialized
-drone hazards, including thin wires and cables.
+drone hazards, including thin wires and cables.   
 
 A still image does not establish object distance, collision probability,
 or whether an object lies in the drone's flight path.
