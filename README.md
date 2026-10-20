@@ -74,7 +74,3 @@ or whether an object lies in the drone's flight path.
 
 This project is a prototype, not a certified collision-avoidance system.
 
-## Screenshots
-
-Add screenshots of the upload workspace, annotated image,
-detection results, and class breakdown here.
